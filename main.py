@@ -106,15 +106,15 @@ async def autoOwO(ctx):
     while dmcs:
         async with ctx.typing():
             await asyncio.sleep(5)
-            await ctx.send('owoh')
+            await ctx.send('@albay deniz gece(hidra tilki)#1029 ')
             print(f"{Fore.GREEN}succefully owoh")
             await asyncio.sleep(15)
-            await ctx.send('owo sell all')
+            await ctx.send('@albay deniz gece(hidra tilki)#1029 ')
             print(f"{Fore.GREEN}succefully sell")
-            await ctx.send('owo flip 500')
+            await ctx.send('@albay deniz gece(hidra tilki)#1029 ')
             print(f"{Fore.GREEN}succefully owo flip 500")
             await asyncio.sleep(10)
-            await ctx.send('owo cash')
+            await ctx.send('@albay deniz gece(hidra tilki)#1029 ')
             print(f"{Fore.GREEN}succefully cash")
             await asyncio.sleep(13)
 
