@@ -41,9 +41,7 @@ async def on_ready():
     ░     ░ ░  ░  ░▒ ░ ▒░░  
   ░         ░     ░░   ░ ░    
             ░  ░   ░     
-
 {Fore.GREEN}
-
  ________  ________  ___                                                                                                                                                                                     
 |\   __  \|\   __  \|\  \                                                                                                                                                                                    
 \ \  \|\  \ \  \|\  \ \  \                                                                                                                                                                                   
@@ -61,7 +59,6 @@ async def on_ready():
   \ \  \____\ \  \\\  \ \    / /   \ \  \_|\ \ \  \\  \\|____|\  \        \ \  \____\ \  \\\  \ \  \    \ \  \ \  \    \ \  \ \  \\\  \ \  \\ \  \ \  \   \ \  \   \/  /  /          /  /_/__  __\ \  \\\  \ 
    \ \_______\ \_______\ \__/ /     \ \_______\ \__\\ _\ ____\_\  \        \ \_______\ \_______\ \__\    \ \__\ \__\    \ \__\ \_______\ \__\\ \__\ \__\   \ \__\__/  / /           |\________\\__\ \_______\
     \|_______|\|_______|\|__|/       \|_______|\|__|\|__|\_________\        \|_______|\|_______|\|__|     \|__|\|__|     \|__|\|_______|\|__| \|__|\|__|    \|__|\___/ /             \|_______\|__|\|_______|
-
 selfbot is ready!
 ''')
 
@@ -106,15 +103,15 @@ async def autoOwO(ctx):
     while dmcs:
         async with ctx.typing():
             await asyncio.sleep(5)
-            await ctx.send('albay oyunu sil ')
+            await ctx.send('owoh')
             print(f"{Fore.GREEN}succefully owoh")
             await asyncio.sleep(15)
-            await ctx.send('deniz kötü oyuncusun sil knk ')
+            await ctx.send('owo sell all')
             print(f"{Fore.GREEN}succefully sell")
-            await ctx.send('@albay deniz gece(hidra tilki)#1029')
+            await ctx.send('owo flip 500')
             print(f"{Fore.GREEN}succefully owo flip 500")
             await asyncio.sleep(10)
-            await ctx.send('bida jungle oynama sen')
+            await ctx.send('owo cash')
             print(f"{Fore.GREEN}succefully cash")
             await asyncio.sleep(13)
 
